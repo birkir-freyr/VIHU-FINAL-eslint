@@ -1,5 +1,5 @@
 module.exports = {
     rules: {
-      forbidMoment: require("./forbidMoment")
+      forbidMoment: require("./eslintRules/forbidMoment")
     }
   };
