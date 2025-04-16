@@ -1,6 +1,7 @@
 {
   "name": "@birkir-freyr/eslint-plugin-vihu-final-eslint",
   "version": "1.0.3",
+
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
