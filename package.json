@@ -1,7 +1,11 @@
 {
-  "name": "esling-plugin-vihu-final",
-  "version": "1.0.1",
+  "name": "@birkir-freyr/eslint-plugin-vihu-final-eslint",
+  "version": "1.0.3",
+
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +19,5 @@
     "url": "https://github.com/birkir-freyr/VIHU-FINAL-eslint/issues"
   },
   "homepage": "https://github.com/birkir-freyr/VIHU-FINAL-eslint#readme",
-  "description": ""
+  "description": "A custom ESLint rule that forbids moment"
 }
